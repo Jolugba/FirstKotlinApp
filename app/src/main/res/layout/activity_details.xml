@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/Detailspage"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".DetailsActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:fontFamily="@font/arial_bold"
+        android:text="@string/full_name_esther_jolugba"
+        android:textAlignment="viewStart"
+        android:textColor="#fff7da"
+        android:textSize="18sp"
+        tools:ignore="Suspicious0dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:fontFamily="@font/arial_bold"
+        android:text="@string/slack_username_imma"
+        android:textAlignment="viewStart"
+        android:textColor="#fff7da"
+        android:textSize="18sp"
+        tools:ignore="Suspicious0dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:fontFamily="@font/arial_bold"
+        android:text="@string/email_address_estherjolugba_yahoo_com"
+        android:textAlignment="viewStart"
+        android:textColor="#fff7da"
+        android:textSize="18sp"
+        tools:ignore="Suspicious0dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:fontFamily="@font/arial_bold"
+        android:text="@string/track_mobile"
+        android:textAlignment="viewStart"
+        android:textColor="#fff7da"
+        android:textSize="18sp"
+        tools:ignore="Suspicious0dp" />
+
+</LinearLayout>

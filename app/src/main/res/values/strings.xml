@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">First Kotlin App</string>
+    <string name="welcome">Welcome</string>
+    <string name="proceed">Proceed</string>
+    <string name="full_name_esther_jolugba">FULL NAME: Esther Jolugba</string>
+    <string name="slack_username_imma">SLACK USERNAME: Imma</string>
+    <string name="email_address_estherjolugba_yahoo_com">Email Address:estherJolugba@yahoo.com</string>
+    <string name="track_mobile">TRACK:Mobile</string>
+</resources>
